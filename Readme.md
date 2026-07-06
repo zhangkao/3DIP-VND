@@ -68,13 +68,13 @@ This research was funded by the National Natural Science Foundation of China (Gr
 
 # Contact
 Zhibin LIU <br />
-3D Reconstruction and Image Processing Research Group (3DIP) <br />
+3D Reconstruction and Image Processing Group (3DIP) <br />
 Perceptual and Generative AI Lab (PGAI Lab) <br />
 Nanjing University of Information Science and Technology <br />
 Email: liuzhibin@nuist.edu.cn <br />
 
 Kao ZHANG<br />
-3D Reconstruction and Image Processing Research Group (3DIP) <br />
+3D Reconstruction and Image Processing Group (3DIP) <br />
 Perceptual and Generative AI Lab (PGAI Lab) <br />
 Nanjing University of Information Science and Technology <br />
 Email: kaozhang@nuist.edu.cn <br />
