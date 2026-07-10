@@ -43,17 +43,6 @@ Unlike existing maritime datasets that mainly focus on vessels, this dataset joi
   The dataset is divided into training, validation, and test sets with approximately **7:2:1**, while maintaining category distribution across subsets.
 
 
-Table 1. Distribution of image resolutions in the proposed dataset. 
-![table2](images/table2.png)
-
-
-Table 2. Temporal distribution of images in the proposed dataset. 
-![table3](images/table3.png)
-
-
-Table 3. The size distribution of each object category. 
-![table4](images/table4.png)
-
 ![Examples of case presentation from our dataset](images/Examples.png)
 Fig. 1. Examples of case presentation from our dataset. 
 
