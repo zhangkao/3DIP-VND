@@ -7,7 +7,7 @@ It is a re-implementation code for VN-DETR.
 
 
 # Dataset
-VND [Baidu Netdisk](https://pan.baidu.com/s/1u_UuQK8bP95WiVdY3Pv1xQ?pwd=yfgy) (18.54G)
+[VND (Baidu Netdisk)](https://pan.baidu.com/s/1u_UuQK8bP95WiVdY3Pv1xQ?pwd=yfgy) (18.54G)
 
 ## Dataset Overview
 
