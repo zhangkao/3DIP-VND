@@ -2,6 +2,9 @@
 # 3DIP_VND
 Visible Nearshore Object Detection in Overhead Coastal Surveillance Imagery: A Large-Scale Dataset and Benchmark
 
+# Code
+The code is based on DEIM [project page](https://intellindust-ai-lab.github.io/projects/DEIMv2/) and [release code](https://github.com/Intellindust-AI-Lab/DEIMv2).
+
 # Dataset
 [VND](https://pan.baidu.com/s/1u_UuQK8bP95WiVdY3Pv1xQ?pwd=yfgy) (18.54G)
 
