@@ -7,7 +7,7 @@ It is a re-implementation code for VN-DETR.
 
 
 # Dataset
-[VND](https://pan.baidu.com/s/1u_UuQK8bP95WiVdY3Pv1xQ?pwd=yfgy) (18.54G)
+VND [Baidu Netdisk](https://pan.baidu.com/s/1u_UuQK8bP95WiVdY3Pv1xQ?pwd=yfgy) (18.54G)
 
 ## Dataset Overview
 
@@ -52,7 +52,7 @@ Fig. 1. Examples of case presentation from our dataset.
 
 # Experiments
 
-Table 4. Comparison of different detection methods on the test set of the proposed dataset.
+Table I. Comparison of different detection methods on the test set of the proposed dataset.
 ![Comparison of different detection methods](images/result.png)
 
 # Acknowledgments
