@@ -1,9 +1,9 @@
-The dataset and code will be available soon.
 
 # 3DIP_VND
 Visible Nearshore Object Detection in Overhead Coastal Surveillance Imagery: A Large-Scale Dataset and Benchmark
 
 # Dataset
+[VND](https://pan.baidu.com/s/1u_UuQK8bP95WiVdY3Pv1xQ?pwd=yfgy) (18.54G)
 
 ## Dataset Overview
 
