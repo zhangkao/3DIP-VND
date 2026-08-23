@@ -1,6 +1,6 @@
 
 # 3DIP_VND
-Visible Nearshore Object Detection in Overhead Coastal Surveillance Imagery: A Large-Scale Dataset and Benchmark
+Visible Nearshore Object Detection in Overhead Surveillance Imagery: A Large-Scale Dataset and Benchmark
 
 # Code
 It is a re-implementation code for VN-DETR. 
