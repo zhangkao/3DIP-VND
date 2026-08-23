@@ -3,7 +3,8 @@
 Visible Nearshore Object Detection in Overhead Coastal Surveillance Imagery: A Large-Scale Dataset and Benchmark
 
 # Code
-The code is based on DEIM [project page](https://intellindust-ai-lab.github.io/projects/DEIMv2/) and [release code](https://github.com/Intellindust-AI-Lab/DEIMv2).
+It is a re-implementation code for VN-DETR. 
+
 
 # Dataset
 [VND](https://pan.baidu.com/s/1u_UuQK8bP95WiVdY3Pv1xQ?pwd=yfgy) (18.54G)
@@ -57,6 +58,7 @@ Table 4. Comparison of different detection methods on the test set of the propos
 # Acknowledgments
 This research was funded by the National Natural Science Foundation of China (Grant No. 62201404) and The Startup Foundation for Introducing Talent of NUIST (Grant No. 2024r061).
 
+Our work is built upon [YOLOv13](https://github.com/iMoonLab/yolov13), [D-FINE](https://github.com/Peterande/D-FINE), [RT-DETR](https://github.com/lyuwenyu/RT-DETR), and [DEIM](https://github.com/ShihuaHuang95/DEIM). Thanks for their great work!
 
 # Contact
 Zhibin LIU <br />
