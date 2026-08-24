@@ -7,7 +7,9 @@ It is a re-implementation code for VN-DETR.
 
 ## Setup
 conda create -n vndetr python=3.11.9
+
 conda activate vndetr
+
 pip install -r requirements.txt
 
 ## Dataset Preparation
