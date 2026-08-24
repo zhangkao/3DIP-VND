@@ -5,6 +5,28 @@ Visible Nearshore Object Detection in Overhead Surveillance Imagery: A Large-Sca
 # Code
 It is a re-implementation code for VN-DETR. 
 
+## Setup
+conda create -n vndetr python=3.11.9
+conda activate vndetr
+pip install -r requirements.txt
+
+## Dataset Preparation
+Download and unzip VND dataset, Place the unzipped directory into the dataset directory.
+
+## Configuration
+Adjust the configurations for the dataloader, model architecture, and training logic in:
+
+./configs/dataset/custom_detection.yml
+
+./configs/deim_dfine/deim_hgnetv2_{model}_coco.yml
+
+./configs/deim_dfine/dfine_hgnetv2_{model}_coco.yml
+
+## Training
+CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --master_port=7777 --nproc_per_node=4 train.py -c configs/deim_dfine/deim_hgnetv2_{model}_coco.yml
+
+## Testing
+CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --master_port=7777 --nproc_per_node=4 train.py -c configs/deim_dfine/deim_hgnetv2_{model}_coco.yml --test-only -r model.pth
 
 # Dataset
 [VND (Baidu Netdisk)](https://pan.baidu.com/s/1u_UuQK8bP95WiVdY3Pv1xQ?pwd=yfgy) (18.54G)
