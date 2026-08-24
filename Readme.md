@@ -29,7 +29,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --master_port=7777 --nproc_per_node=4 trai
 CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --master_port=7777 --nproc_per_node=4 train.py -c configs/deim_dfine/deim_hgnetv2_{model}_coco.yml --test-only -r model.pth
 
 # Dataset
-[VND (Baidu Netdisk)](https://pan.baidu.com/s/1u_UuQK8bP95WiVdY3Pv1xQ?pwd=yfgy) (18.54G)
+You can download VND dataset here [VND (Baidu Netdisk)](https://pan.baidu.com/s/1u_UuQK8bP95WiVdY3Pv1xQ?pwd=yfgy) (18.54G)
 
 ## Dataset Overview
 
