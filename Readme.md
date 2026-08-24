@@ -76,6 +76,8 @@ Fig. 1. Examples of case presentation from our dataset.
 
 # Experiments
 
+[Weights (Baidu Netdisk)](https://pan.baidu.com/s/1swlQOiWRif8OA87PFF5IPw)
+
 Table I. Comparison of different detection methods on the test set of the proposed dataset.
 ![Comparison of different detection methods](images/result.png)
 
